@@ -1,5 +1,3 @@
-# Still WIP!
-
 # Finances for June 2022:
 
 ## Donations:
