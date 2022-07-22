@@ -10,4 +10,4 @@ None at the moment
 
 ## How we used the funds
 
-We haven't used the donation yet. 
+The funds we got this month were used to buy our new VPS from BuyVM in July. For more detail, [read here](https://blog.projectsegfau.lt/new-vps-bought/).
