@@ -7,9 +7,10 @@
 Monero (XMR): 0
 
 ## Expenses
-
-0.04195142 XMR (Bought a new VPS from BuyVM)
-
+```diff
+- 0.04195142 XMR (Bought a new VPS from BuyVM)
+- 0.00525435 XMR (Paid invoice)
+```
 ## How we used the funds
 
 We have not gotten a donation yet this month.
