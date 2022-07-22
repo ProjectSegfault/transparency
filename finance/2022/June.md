@@ -1,9 +1,9 @@
 # Finances for June 2022:
 
 ## Donations:
-
-Monero (XMR): 0.25 worth ~26.87 when we noticed it.
-
+```diff
++ Monero (XMR): 0.25 worth ~26.87 when we noticed it.
+```
 ## Expenses
 
 None at the moment
