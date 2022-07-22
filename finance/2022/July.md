@@ -9,7 +9,7 @@ Monero (XMR): 0
 ## Expenses
 ```diff
 - 0.04195142 XMR (Bought a new VPS from BuyVM)
-- 0.00525435 XMR (Paid invoice)
+- 0.00525435 XMR (Paid the invoice for the BuyVM VPS)
 ```
 ## How we used the funds
 
