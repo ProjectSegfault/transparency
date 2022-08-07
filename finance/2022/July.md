@@ -1,5 +1,3 @@
-# Still work in progress!
-
 # Finances for July 2022:
 
 ## Donations:
