@@ -11,4 +11,4 @@ Monero (XMR): 0
 ```
 ## How we used the funds
 
-We have not gotten a donation yet this month.
+We have not gotten a donation this month. :(
