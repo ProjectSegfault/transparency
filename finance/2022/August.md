@@ -4,7 +4,6 @@
 ```diff
 Monero (XMR): 0
 + FIAT (€) : 20 € on the 16th of august.
-
 ```
 ## Recurring donations:
 
