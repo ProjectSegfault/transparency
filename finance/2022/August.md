@@ -4,6 +4,7 @@
 ```diff
 + Monero (XMR): 0.05 (8.52 € at the time it got sent)
 + FIAT (€) : 20 € on the 16th of august.
++ FIAT (€) : 4.68 € on the 31th of august.
 ```
 ## Recurring donations:
 
