@@ -1,4 +1,4 @@
-# Finances for July 2022:
+# Finances for September 2022:
 
 ## One time donations:
 
