@@ -17,15 +17,17 @@
 
 ```diff
 - 11.99 € (renew the projectsegfau.lt domain).
+- 0.0246121 XMR (3.5 € On the 21st of September.)
 ```
 
 ## Current balance:
 
-* 0.37097975 XMR (~ 52.2413 € at the time of writing this.)
+* 0.34636765 XMR (~ 49.82498 € at the time of writing this.)
 * 14 € (in FIAT)
-* Total (in €) : 66.2413 €
+* Total (in €) : 63.82498 €
 
 ## How we used the funds
 
-We paid 12 € to OVH to renew the domain name.
+- We paid 12 € to OVH to renew the domain name.
 
+- We also paid our monthly bill for the BuyVM VPS (3.5$).
