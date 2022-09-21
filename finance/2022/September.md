@@ -22,7 +22,7 @@
 ## Current balance:
 
 * 0.37097975 XMR (~ 52.2413 € at the time of writing this.)
-* 14 € (Will be updated once mrlerien reports the current budget.)
+* 14 € (in FIAT)
 * Total (in €) : 66.2413 €
 
 ## How we used the funds
