@@ -22,7 +22,8 @@
 ## Current balance:
 
 * 0.37097975 XMR (~ 52.2413 € at the time of writing this.)
-* ??? EUR (Will be updated once mrlerien reports the current budget.)
+* 14 € (Will be updated once mrlerien reports the current budget.)
+* Total (in €) : 66.2413 €
 
 ## How we used the funds
 
