@@ -6,12 +6,13 @@
 
 + Monero (XMR): 0.00119316  (~ 0.16805 € when we noticed it) on the 16th of september.
 + Monero (XMR): 0.04 (~ 5.6336 € when we noticed it) on the 16th of september.
++ FIAT (€): 13 € on the 24th of september. (Currently on hold because the PayPal account is fairly new.)
 
 ```
 
 ## Recurring donations:
 
-- 0.43 € per week on [LiberaPay](https://liberapay.com/ProjectSegfault)
+- 0.68 € per week on [LiberaPay](https://liberapay.com/ProjectSegfault)
 
 ## Expenses
 
@@ -23,8 +24,8 @@
 ## Current balance:
 
 * 0.34636765 XMR (~ 49.82498 € at the time of writing this.)
-* 14 € (in FIAT)
-* Total (in €) : 63.82498 €
+* 14 € + 13 € **[On hold]** (in FIAT)
+* Total (in €) : 63.82498 € + 13 € **[On hold]**
 
 ## How we used the funds
 
