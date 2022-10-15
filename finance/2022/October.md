@@ -19,8 +19,8 @@
 ## Current balance:
 
 * 0.32971353 XMR (~ 48.38216 € at the time of writing this.)
-* 14 € + 13 € **[On hold]** (in FIAT)
-* Total (in €) : 62.38216 € + 13 € **[On hold]**
+* 27 €  (in FIAT)
+* Total (in €) : 75.38216 €
 
 ## How we used the funds
 
