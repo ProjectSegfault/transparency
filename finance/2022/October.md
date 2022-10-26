@@ -15,14 +15,14 @@
 ```diff
 - 0.01665412 XMR (2.44 € On the 11th of October.)
 - 2$ (2,14 € On the 21st of October.)
-
+- 0.04865206 (7.11 € On the 25th of October.)
 ```
 
 ## Current balance:
 
-* 0.32971353 XMR (~ 48.38216 € at the time of writing this.)
+* 0.28106147 XMR (~ 41.08 € at the time of writing this.)
 * 24.86 €  (in FIAT)
-* Total (in €) : 73.24216 €
+* Total (in €) : 65,94 €
 
 ## How we used the funds
 
