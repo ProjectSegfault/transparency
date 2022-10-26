@@ -28,3 +28,4 @@
 
 - We upgraded our BuyVM VPS from a 1GB RAM 20GB Storage plan to 2GB RAM 40GB Storage plan. The monthly costs will become 7 $ instead of 3.5 $ (On the 11th of October.)
 - We donated to the Authentik dev (On the 21st of October.)
+- We also paid our monthly bill for the BuyVM VPS (7$).
