@@ -3,12 +3,13 @@
 ## One time donations:
 
 ```diff
-* None at the moment.
++ 0.01 XMR (1.46 € On the 28th of October.)
++ 1,70 € (On the 27th of October.)
 ```
 
 ## Recurring donations:
 
-- 0.68 € per week on [LiberaPay](https://liberapay.com/ProjectSegfault)
+- 0.90 € per week on [LiberaPay](https://liberapay.com/ProjectSegfault)
 
 ## Expenses
 
@@ -20,9 +21,9 @@
 
 ## Current balance:
 
-* 0.28106147 XMR (~ 41.08 € at the time of writing this.)
-* 24.86 €  (in FIAT)
-* Total (in €) : 65,94 €
+* 0.29106147 XMR (~ 46.21 € at the time of writing this.)
+* 26.56 €  (in FIAT)
+* Total (in €) : 72,77 €
 
 ## How we used the funds
 
