@@ -3,7 +3,7 @@
 ## One time donations:
 
 ```diff
-+ 9,71 € (LiberaPay on the 1st of November.)
++ 9.71 € (LiberaPay on the 1st of November.)
 ```
 
 ## Recurring donations:
@@ -13,18 +13,34 @@
 ## Expenses
 
 ```diff
- * None at the moment.
-
+- 0.05479068 XMR (6.72€ on the 21st of November.)
 ```
 
 ## Current balance:
 
-* 0.29106147 XMR (~ 46.21 € at the time of writing this.)
+* 0,23627079 XMR (~ 29.314 € at the time of writing this.)
 * 36,27 €  (in FIAT)
-* Total (in €) : 82,48 €
+* Total (in €) : 65,584 €
+
+
+----------------------
+
+## Estimated amount of funds.
+
+### BuyVM (Crypto)
+
+* 29.314 € / 6.72 € = 4 Months left.
+
+### Soleil (FIAT)
+
+* Paid by lerien.
+
+### Domain (FIAT)
+
+* Paid. 6 Months left.
+
+----------------------
 
 ## How we used the funds
 
-- We upgraded our BuyVM VPS from a 1GB RAM 20GB Storage plan to 2GB RAM 40GB Storage plan. The monthly costs will become 7 $ instead of 3.5 $ (On the 11th of October.)
-- We donated to the Authentik dev (On the 21st of October.)
-- We also paid our monthly bill for the BuyVM VPS (7$).
+- We paid our monthly bill for the BuyVM VPS (7$).
