@@ -30,7 +30,7 @@
 
 ### BuyVM (Crypto)
 
-* 29.314 € / 6.72 € = 4 Months left.
+* 32.81 € / 6.72 € = 4 Months left.
 
 ### Soleil (FIAT)
 
