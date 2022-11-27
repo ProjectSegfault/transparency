@@ -4,6 +4,7 @@
 
 ```diff
 + 9.71 € (LiberaPay on the 1st of November.)
++ 0.01 XMR (1.33 € On the 27th of November.)
 ```
 
 ## Recurring donations:
@@ -18,11 +19,11 @@
 
 ## Current balance:
 
-* 0,23627079 XMR (~ 29.314 € at the time of writing this.)
+* 0.24622549 XMR (~ 32.81 € at the time of writing this.)
 * 36,27 €  (in FIAT)
-* Total (in €) : 65,584 €
+* Total (in €) : 69,08 €
 
-
+ 
 ----------------------
 
 ## Estimated amount of funds.
