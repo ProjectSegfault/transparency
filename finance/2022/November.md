@@ -1,4 +1,4 @@
-# Finances for October 2022:
+# Finances for November 2022:
 
 ## One time donations:
 
@@ -21,9 +21,8 @@
 ## Current balance:
 
 * 0.24622549 XMR (~ 32.81 € at the time of writing this.)
-* 36,27 €  (in FIAT)
-* Total (in €) : 69,08 €
-<!-- TODO: Update the prices again-->
+* 45.88 €  (in FIAT)
+* Total (in €) : 78.69 €
  
 ----------------------
 
