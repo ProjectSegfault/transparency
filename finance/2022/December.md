@@ -43,6 +43,11 @@
 
 * Paid by lerien.
 
+### DigitalOcean (FIAT)
+
+* $180.15 / $14.81 = 1 Year left. 
+* Credit expires on November 19, 2023.
+
 ----------------------
 
 ## How we used the funds
