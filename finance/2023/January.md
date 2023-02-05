@@ -4,6 +4,8 @@
 
 ```diff
 + 9,61 € (LiberaPay on the 3rd of January.)
++ 0,082029665103 XMR (~13,05 € on the 28th of January.)
+
 ```
 
 ## Recurring donations:
@@ -19,9 +21,9 @@
 
 ## Current balance:
 
-- 0.3089307 XMR (~ 50.19 € At the time of writing this.)
+- 0,390960375103 XMR (~ 62,12 € At the time of writing this.)
 - 102,13 € (in FIAT)
-- Total (in €) : 152,32 €
+- Total (in €) : 164,25 €
 
 ---
 
@@ -29,7 +31,7 @@
 
 ### BuyVM (Crypto)
 
-- 50.19 € / 6.72 € = 7 Months left.
+- 62,12 € / 6.72 € = 9 Months left.
 
 ### Soleil (FIAT)
 
