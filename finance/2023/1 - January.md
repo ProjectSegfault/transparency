@@ -5,7 +5,7 @@
 ```diff
 + 9,61 € (LiberaPay on the 3rd of January.)
 + 0,082029665103 XMR (~13,05 € on the 28th of January.)
-
++ 0,05564699 LTC (~ 5,14 € on the 21st of January.)
 ```
 
 ## Recurring donations:
@@ -22,8 +22,9 @@
 ## Current balance:
 
 - 0,390960375103 XMR (~ 62,12 € At the time of writing this.)
+- 0,05564699 LTC (~ 5,14 € At the time of writing this.)
 - 102,13 € (in FIAT)
-- Total (in €) : 164,25 €
+- Total (in €) : 269,39 €
 
 ---
 
