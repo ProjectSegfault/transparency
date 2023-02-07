@@ -8,9 +8,11 @@ File layout is inspired by iv-org's [transparency repo.](https://github.com/iv-o
 
 ## Public Addresses for wallets
 
-XMR: `47L7Qsto7XcifY3CdG18ySe5Tt83kpFLDLve9jQwbc9taPBLNGv6ZrJNUKpMG9Nj9zHgCZ4FQMSyt75e8Jvx12JFLtJyFdA`
-BTC: `bc1qrc8ywgp95a6p3zausp4nff70qzstp6h8z86sxd`
-LTC: `ltc1qn3ald586h2ntt0n3zkvwsmju2e5vndgtvvgatj`
+- XMR: `47L7Qsto7XcifY3CdG18ySe5Tt83kpFLDLve9jQwbc9taPBLNGv6ZrJNUKpMG9Nj9zHgCZ4FQMSyt75e8Jvx12JFLtJyFdA`
+
+- BTC: `bc1qrc8ywgp95a6p3zausp4nff70qzstp6h8z86sxd`
+
+- LTC: `ltc1qn3ald586h2ntt0n3zkvwsmju2e5vndgtvvgatj`
 
 ## ViewKey for Monero (Advanced)
 
