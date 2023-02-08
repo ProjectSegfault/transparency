@@ -24,7 +24,7 @@
 - 0,390960375103 XMR (~ 62,12 € At the time of writing this.)
 - 0,05564699 LTC (~ 5,14 € At the time of writing this.)
 - 102,13 € (in FIAT)
-- Total (in €) : 269,39 €
+- Total (in €) : 169,39 €
 
 ---
 
