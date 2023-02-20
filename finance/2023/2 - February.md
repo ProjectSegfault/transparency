@@ -14,15 +14,16 @@
 
 ```diff
 - 4,20 € (On the 10th of February.)
+- 0.04217876 (~ 6,58 €) (On the 20th of February.)
 
 ```
 
 ## Current balance:
 
-- 0,390960375103 XMR (~ 62,12 € At the time of writing this.)
+- 0,348795615103 XMR (~ 54.44 € At the time of writing this.)
 - 0,05564699 LTC (~ 5,14 € At the time of writing this.)
 - 97,93 € (in FIAT)
-- Total (in €) : 165,19 €
+- Total (in €) : 157,51 €
 
 ---
 
@@ -30,7 +31,7 @@
 
 ### BuyVM (Crypto)
 
-- 62,12 € / 6.72 € = 8 Months left.
+- 54,44 € / 6.72 € = 7 Months left.
 
 ### Soleil (FIAT)
 
