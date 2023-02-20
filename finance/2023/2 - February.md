@@ -51,7 +51,7 @@
 
 ### DigitalOcean (FIAT)
 
-- $150.53 / $14.81 = 10 Months left.
+- $153.05 / $14.81 = 10 Months left.
 - Credit expires on November 19, 2023.
 
 ---
