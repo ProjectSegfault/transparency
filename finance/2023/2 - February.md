@@ -3,7 +3,8 @@
 ## One time donations:
 
 ```diff
-* None at the moment
++ 2,26 € (On the 24th of February.)
+
 ```
 
 ## Recurring donations:
@@ -22,8 +23,8 @@
 
 - 0,348795615103 XMR (~ 54.44 € At the time of writing this.)
 - 0,05564699 LTC (~ 5,14 € At the time of writing this.)
-- 97,93 € (in FIAT)
-- Total (in €) : 157,51 €
+- 100,19 € (in FIAT)
+- Total (in €) : 159,77 €
 
 ---
 
@@ -43,11 +44,11 @@
 
 ### Hebergnity (FIAT)
 
-- Closed down. Lost 23 € (Not counted in the funds.)
+- Back up. But Docker unusable at the moment.
 
 ### OVH VPS (FIAT)
 
-- 97,93 € / 4,20 € = 23 Months left.
+- 100,19 € / 4,20 € = 23 Months left.
 
 ### DigitalOcean (FIAT)
 
