@@ -9,7 +9,7 @@
 
 ## Recurring donations:
 
-- 2.08 € per week on [LiberaPay](https://liberapay.com/ProjectSegfault)
+- 3,23 € per week on [LiberaPay](https://liberapay.com/ProjectSegfault)
 
 ## Expenses
 
