@@ -1,4 +1,4 @@
-# Finances for January 2023:
+# Finances for February2023:
 
 ## One time donations:
 
