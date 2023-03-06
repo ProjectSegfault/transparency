@@ -1,12 +1,9 @@
-# Finances for February 2023:
+# Finances for March 2023:
 
 ## One time donations:
 
 ```diff
-+ 2,26 € (On the 24th of February.)
-+ 0,000126482213 XMR (~ 0.02 € On the 21st of February.)
-+ 0,12770555891 XMR (~ 17.42 € On the 22nd of February.)
-
++ 38,61 € (On the 6th of March.)
 ```
 
 ## Recurring donations:
@@ -16,17 +13,15 @@
 ## Expenses
 
 ```diff
-- 4,20 € (On the 10th of February.)
-- 0.04217876 (~ 6,58 €) (On the 20th of February.)
-
+* None at the moment.
 ```
 
 ## Current balance:
 
 - 0,4766276562 XMR (~ 65.01 € At the time of writing this.)
 - 0,05564699 LTC (~ 5,14 € At the time of writing this.)
-- 100,19 € (in FIAT)
-- Total (in €) : 170,34 €
+- 138,8 € (in FIAT)
+- Total (in €) : 208,95 €
 
 ---
 
@@ -42,7 +37,7 @@
 
 ### Domain (FIAT)
 
-- Paid. 4 Months left.
+- Paid. 3 Months left.
 
 ### Hebergnity (FIAT)
 
@@ -54,12 +49,11 @@
 
 ### DigitalOcean (FIAT)
 
-- $153.05 / $14.81 = 10 Months left.
+- $138,24 / $14.81 = 9 Months left.
 - Credit expires on November 19, 2023.
 
 ---
 
 ## How we used the funds
 
-- We paid our monthly bill for BuyVM.
-- We started paying a OVH VPS due to Hebergnity closing down. Which is more exepnsive in the long term.
+- Nothing ATM.
