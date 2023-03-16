@@ -5,6 +5,7 @@
 ```diff
 + 38,61 € (On the 6th of March.)
 + 0.1 XMR (~13,23 € On the 6th of March.)
++ 38,39 € (On the 16th of March.)
 ```
 
 ## Recurring donations:
@@ -21,8 +22,8 @@
 
 - 0,5766276562 XMR (~ 76,28 € At the time of writing this.)
 - 0,05564699 LTC (~ 5,14 € At the time of writing this.)
-- 134,6 € (in FIAT)
-- Total (in €) : 217,98 €
+- 172,99 € (in FIAT)
+- Total (in €) : 256,37 €
 
 ---
 
