@@ -16,15 +16,16 @@
 ## Expenses
 
 ```diff
-- 4.20 € (On the 10th of March.)
+- 4,20 € (On the 10th of March.)
+- 0.04539353 XMR (~ 6,47 € On the 22nd Of March.)
 ```
 
 ## Current balance:
 
-- 0,5766276562 XMR (~ 76,28 € At the time of writing this.)
+- 0,5312361962 XMR (~ 75,72 € At the time of writing this.)
 - 0,05564699 LTC (~ 5,14 € At the time of writing this.)
 - 172,99 € (in FIAT) + 44,42 € ON HOLD (Paypal)
-- Total (in €) : 256,37 € + 44, 42 €
+- Total (in €) : 249,9 € + 44,42 €
 
 ---
 
