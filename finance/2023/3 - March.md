@@ -6,6 +6,7 @@
 + 38,61 € (On the 6th of March.)
 + 0.1 XMR (~13,23 € On the 6th of March.)
 + 38,39 € (On the 16th of March.)
++ 44,42 € (On the 21st of March.) (ON HOLD)
 ```
 
 ## Recurring donations:
@@ -22,8 +23,8 @@
 
 - 0,5766276562 XMR (~ 76,28 € At the time of writing this.)
 - 0,05564699 LTC (~ 5,14 € At the time of writing this.)
-- 172,99 € (in FIAT)
-- Total (in €) : 256,37 €
+- 172,99 € (in FIAT) + 44,42 € ON HOLD (Paypal)
+- Total (in €) : 256,37 € + 44, 42 €
 
 ---
 
