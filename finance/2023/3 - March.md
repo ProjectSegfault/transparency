@@ -11,7 +11,7 @@
 
 ## Recurring donations:
 
-- 3,48 € per week on [LiberaPay](https://liberapay.com/ProjectSegfault)
+- 4,37 € per week on [LiberaPay](https://liberapay.com/ProjectSegfault)
 
 ## Expenses
 
@@ -62,3 +62,4 @@
 
 - We paid the monthly OVH VPS bill. This will probably be the last month we will pay it
   to migrate back to Hebergnity due to it being not an extremely critical source
+- We paid the monthly BuyVM bill.
