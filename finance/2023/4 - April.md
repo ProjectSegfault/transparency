@@ -1,13 +1,10 @@
-# Finances for March 2023:
+# Finances for April 2023:
 
 ## One time donations:
 
 ```diff
-+ 38.61 € (On the 6th of March.)
-+ 0.1 XMR (~13.23 € On the 6th of March.)
-+ 38.39 € (On the 16th of March.)
-+ 44.42 € (On the 21st of March.) (ON HOLD)
-+ 2.29 €  (On the 29th of March.)
+* None at the moment.
+
 ```
 
 ## Recurring donations:
@@ -17,9 +14,7 @@
 ## Expenses
 
 ```diff
-- 4.20 € (On the 10th of March.)
-- 0.04539353 XMR (~ 6.47 € On the 22nd Of March.)
-- 33.38 € (On the 29th of March.)
+* None at the moment.
 ```
 
 ## Current balance:
@@ -55,7 +50,7 @@
 
 ### DigitalOcean (FIAT)
 
-- $138.24 / $14.81 = 9 Months left.
+- $127 / $14.81 = 8 Months left.
 - Credit expires on November 19, 2023.
 
 ## Rsync.net (FIAT)
@@ -66,7 +61,4 @@
 
 ## How we used the funds
 
-- We paid the monthly OVH VPS bill. This will probably be the last month we will pay it
-  to migrate back to Hebergnity due to it being not an extremely critical source
-- We paid the monthly BuyVM bill.
-- We bought an offsite backup from rsyncnet, hosted in swiss. We will start configuring our backups to there soon.
+- None.
