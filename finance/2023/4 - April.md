@@ -14,15 +14,16 @@
 ## Expenses
 
 ```diff
-* None at the moment.
+- 10.93 € (On the 1st of April.)
+
 ```
 
 ## Current balance:
 
 - 0.5312361962 XMR (~ 75.72 € At the time of writing this.)
 - 0.05564699 LTC (~ 5.14 € At the time of writing this.)
-- 141.9 € (in FIAT) + 44.42 € ON HOLD (Paypal)
-- Total (in €) : 218.81 € + 44.42 €
+- 130.96 € (in FIAT) + 44.42 € ON HOLD (Paypal)
+- Total (in €) : 207.87 € + 44.42 €
 
 ---
 
@@ -55,10 +56,10 @@
 
 ## Rsync.net (FIAT)
 
-- 141.9 € / 33.38 € = 4 years left.
+- 130.96 € / 33.38 € = ~ 4 years left.
 
 ---
 
 ## How we used the funds
 
-- None.
+- We bought a new domain name for [GotHub](https://gothub.app).
