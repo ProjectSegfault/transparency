@@ -54,7 +54,7 @@
 - $127 / $14.81 = 8 Months left.
 - Credit expires on November 19, 2023.
 
-## Rsync.net (FIAT)
+### Rsync.net (FIAT)
 
 - 130.96 € / 33.38 € = ~ 4 years left.
 
