@@ -69,4 +69,4 @@
 - We paid the monthly OVH VPS bill. This will probably be the last month we will pay it
   to migrate back to Hebergnity due to it being not an extremely critical source
 - We paid the monthly BuyVM bill.
-- We bought an offsite backup from rsyncnet, hosted in swiss. We will start configuring our backups to there soon.
+- We bought an offsite backup from rsyncnet, hosted in Switzerland. We will start configuring our backups to there soon.
