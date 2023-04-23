@@ -9,21 +9,21 @@
 
 ## Recurring donations:
 
-- 4.39 € per week on [LiberaPay](https://liberapay.com/ProjectSegfault)
+- 4.11 € per week on [LiberaPay](https://liberapay.com/ProjectSegfault)
 
 ## Expenses
 
 ```diff
 - 10.93 € (On the 1st of April.)
-
+- 0.04562128 XMR (~6.5 € On the 22nd of April)
 ```
 
 ## Current balance:
 
-- 0.5312361962 XMR (~ 75.72 € At the time of writing this.)
+- 0.4856149162 XMR (~ 69.17 € At the time of writing this.)
 - 0.05564699 LTC (~ 5.14 € At the time of writing this.)
-- 130.96 € (in FIAT) + 44.42 € ON HOLD (Paypal)
-- Total (in €) : 207.87 € + 44.42 €
+- 175.38 € (in FIAT)
+- Total (in €) : 245.79 €
 
 ---
 
@@ -31,7 +31,7 @@
 
 ### BuyVM (Crypto)
 
-- 75.72 € / 6.72 € = 11 Months left.
+- 69.17 € / 6.72 € = 10 Months left.
 
 ### Soleil (FIAT)
 
@@ -63,3 +63,4 @@
 ## How we used the funds
 
 - We bought a new domain name for [GotHub](https://gothub.app).
+- We paid the monthly BuyVM bill.
