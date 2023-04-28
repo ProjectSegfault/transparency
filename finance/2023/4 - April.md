@@ -16,14 +16,15 @@
 ```diff
 - 10.93 € (On the 1st of April.)
 - 0.04562128 XMR (~6.5 € On the 22nd of April)
+- 19.29 € (On the 28th of April.)
 ```
 
 ## Current balance:
 
 - 0.4856149162 XMR (~ 69.17 € At the time of writing this.)
 - 0.05564699 LTC (~ 5.14 € At the time of writing this.)
-- 175.38 € (in FIAT)
-- Total (in €) : 245.79 €
+- 156.09 € (in FIAT)
+- Total (in €) : 226.75 €
 
 ---
 
@@ -39,7 +40,11 @@
 
 ### Domain (FIAT)
 
-- Paid. 3 Months left.
+* psf.lt:
+- Paid. 1 year left.
+
+* projectsegfau.lt
+- Paid. 1 year left.
 
 ### Hebergnity (FIAT)
 
@@ -47,7 +52,7 @@
 
 ### OVH VPS (FIAT)
 
-- 141.9 € / 4.20 € = 33 Months left.
+- 156.09 € / 4.20 € = 37 Months left. (~3 years.)
 
 ### DigitalOcean (FIAT)
 
@@ -56,7 +61,7 @@
 
 ### Rsync.net (FIAT)
 
-- 130.96 € / 33.38 € = ~ 4 years left.
+- 156.09 € / 33.38 € = ~ 4 years left.
 
 ---
 
@@ -64,3 +69,4 @@
 
 - We bought a new domain name for [GotHub](https://gothub.app).
 - We paid the monthly BuyVM bill.
+- We bought another new domain name for [ProjectSegfault](https://projectsegfau.lt). (psf.lt)
