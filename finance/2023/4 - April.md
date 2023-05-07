@@ -56,7 +56,7 @@
 
 ### DigitalOcean (FIAT)
 
-- $31.54 / $14.81 = 2 Months left.
+- $63.54 / $14.81 = 4 Months left.
 - Credit expires on November 19, 2023.
 
 **Bandwidth overusage fees range from $8-40 a month.**
