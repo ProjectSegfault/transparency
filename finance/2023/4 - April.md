@@ -3,7 +3,7 @@
 ## One time donations:
 
 ```diff
-* None at the moment.
+0.09134706 LTC (~6.42 € on the 27th of April.)
 
 ```
 
@@ -22,9 +22,9 @@
 ## Current balance:
 
 - 0.4856149162 XMR (~ 69.17 € At the time of writing this.)
-- 0.05564699 LTC (~ 5.14 € At the time of writing this.)
+- 0.14699405 LTC (~ 10.34 € At the time of writing this.)
 - 156.09 € (in FIAT)
-- Total (in €) : 226.75 €
+- Total (in €) : 223.17 €
 
 ---
 
@@ -40,7 +40,7 @@
 
 ### Domain (FIAT)
 
-* psf.lt:
+* psf.lt
 - Paid. 1 year left.
 
 * projectsegfau.lt
