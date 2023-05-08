@@ -4,7 +4,6 @@
 
 ```diff
 + 0.031 XMR (~4.31 € On the 5th of May.)
-
 ```
 
 ## Recurring donations:
