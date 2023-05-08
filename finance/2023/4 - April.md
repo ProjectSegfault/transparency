@@ -3,7 +3,7 @@
 ## One time donations:
 
 ```diff
-0.09134706 LTC (~6.42 € on the 27th of April.)
++ 0.09134706 LTC (~6.42 € on the 27th of April.)
 
 ```
 
