@@ -8,20 +8,22 @@
 
 ## Recurring donations:
 
-- 4.12 € per week on [LiberaPay](https://liberapay.com/ProjectSegfault)
+- 4.16 € per week on [LiberaPay](https://liberapay.com/ProjectSegfault)
 
 ## Expenses
 
 ```diff
-* None at the moment.
+- 0.046377680000 XMR (~6.51 € On the 22nd of May.)
+- 4.20 € (On the 10th of May.)
+- 4.20 € (On the 10th or April.) [I forgot this one on last month so i'll add it here.]
 ```
 
 ## Current balance:
 
-- 0.516612846226 XMR (~ 71.82 € At the time of writing this.)
+- 0.4702351662 XMR (~ 65.89 € At the time of writing this.)
 - 0.14699405 LTC (~ 10.34 € At the time of writing this.)
-- 156.09 € (in FIAT)
-- Total (in €) : 227.48 €
+- 147.69 € (in FIAT)
+- Total (in €) : 212.57 €
 
 ---
 
@@ -37,11 +39,13 @@
 
 ### Domain (FIAT)
 
-* psf.lt
-- Paid. 1 year left.
+- psf.lt
 
-* projectsegfau.lt
-- Paid. 1 year left.
+* Paid. 1 year left.
+
+- projectsegfau.lt
+
+* Paid. 2 years left.
 
 ### Hebergnity (FIAT)
 
@@ -49,7 +53,7 @@
 
 ### OVH VPS (FIAT)
 
-- 156.09 € / 4.20 € = 37 Months left. (~3 years.)
+- 147.69 € / 4.20 € = 35 Months left. (~3 years.)
 
 ### DigitalOcean (FIAT)
 
@@ -61,10 +65,10 @@
 
 ### Rsync.net (FIAT)
 
-- 156.09 € / 33.38 € = ~ 4 years left.
+- 147.69 € / 33.38 € = ~ 4 years left.
 
 ---
 
 ## How we used the funds
 
-* We haven't used it for anything yet.
+- We paid the monthly bill of BuyVM, OVH (last month), OVH (This month).
