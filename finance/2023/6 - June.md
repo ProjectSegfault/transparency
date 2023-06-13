@@ -3,12 +3,13 @@
 ## One time donations:
 
 ```diff
++ 1.69 € (On the 11th of June.)
 
 ```
 
 ## Recurring donations:
 
-- 3.57 € per week on [LiberaPay](https://liberapay.com/ProjectSegfault)
+- 3.81 € per week on [LiberaPay](https://liberapay.com/ProjectSegfault)
 
 ## Expenses
 
@@ -20,8 +21,8 @@
 
 - 0.4702351662 XMR (~ 65.89 € At the time of writing this.)
 - 0.14699405 LTC (~ 10.34 € At the time of writing this.)
-- 147.69 € (in FIAT)
-- Total (in €) : 212.57 €
+- 149.38 € (in FIAT)
+- Total (in €) : 214.26 €
 
 ---
 
@@ -51,7 +52,7 @@
 
 ### OVH VPS (FIAT)
 
-- 147.69 € / 4.20 € = 35 Months left. (~3 years.)
+- 149.38 € / 4.20 € = 35 Months left. (~3 years.)
 
 ### DigitalOcean (FIAT)
 
@@ -63,7 +64,7 @@
 
 ### Rsync.net (FIAT)
 
-- 147.69 € / 33.38 € = ~ 4 years left.
+- 149.38 € / 33.38 € = ~ 4 years left.
 
 ---
 
