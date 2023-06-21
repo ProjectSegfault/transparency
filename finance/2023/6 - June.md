@@ -14,15 +14,17 @@
 ## Expenses
 
 ```diff
+- 4.20 € (On the 10th of June.)
+- 0.04808987 XMR (~6.38 € On the 22nd of June.)
 
 ```
 
 ## Current balance:
 
-- 0.4702351662 XMR (~ 65.89 € At the time of writing this.)
+- 0.4221452962 XMR (~ 56 € At the time of writing this.)
 - 0.14699405 LTC (~ 10.34 € At the time of writing this.)
-- 149.38 € (in FIAT)
-- Total (in €) : 214.26 €
+- 145.18 € (in FIAT)
+- Total (in €) : 203.68 €
 
 ---
 
@@ -30,7 +32,7 @@
 
 ### BuyVM (Crypto)
 
-- 71.82 € / 6.72 € = 10 Months left.
+- 56 € / 6.72 € = 8 Months left.
 
 ### Soleil (FIAT)
 
@@ -52,7 +54,7 @@
 
 ### OVH VPS (FIAT)
 
-- 149.38 € / 4.20 € = 35 Months left. (~3 years.)
+- 145.18 € / 4.20 € = 35 Months left. (~3 years.)
 
 ### DigitalOcean (FIAT)
 
@@ -64,10 +66,10 @@
 
 ### Rsync.net (FIAT)
 
-- 149.38 € / 33.38 € = ~ 4 years left.
+- 145.18 € / 33.38 € = ~ 4 years left.
 
 ---
 
 ## How we used the funds
 
-- Nothing at the moment.
+- We paid the monthly bill of BuyVM, and OVH.
