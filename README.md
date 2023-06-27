@@ -6,6 +6,10 @@ Here we will fill out fiscal reports etc.
 
 File layout is inspired by iv-org's [transparency repo.](https://github.com/iv-org/transparency)
 
+## Clarification:
+
+US node report is not updated frequently. Devrand / openssl_rand may update it according to whenever he has time for it.
+
 ## Public Addresses for wallets
 
 - XMR: `47L7Qsto7XcifY3CdG18ySe5Tt83kpFLDLve9jQwbc9taPBLNGv6ZrJNUKpMG9Nj9zHgCZ4FQMSyt75e8Jvx12JFLtJyFdA`
