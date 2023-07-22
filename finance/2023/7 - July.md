@@ -7,6 +7,7 @@
 + 22.40 € (On the 5th of July.)
 + 0.05 XMR (~ 7.43 € On the 6th of July.)
 + 1.1 € (On the 10th of July.)
++ 0.15 XMR (~ 21,84 € On the 13th of July.)
 ```
 
 ## Recurring donations:
@@ -17,15 +18,17 @@
 
 ```diff
 - 0.03064833 XMR (~ 5 $ or 4.55 € On the 11th of july.)
+- 4.20 € (On the 10th of July.)
+- 0.04321456 XMR (~ 7 $ or 6,29 € On the 22nd of july.)
 
 ```
 
 ## Current balance:
 
-- 0.44149696626 XMR (~ 65.58 € At the time of writing this.)
+- 0.5482824063 XMR (~ 80,02 € At the time of writing this.)
 - 0.14699405 LTC (~ 10.34 € At the time of writing this.)
-- 173.35 € (in FIAT) (27.07 € Pending included.)
-- Total (in €) : 234.63 €
+- 169.15 € (in FIAT) (27.07 € Pending included.)
+- Total (in €) : 249.316 €
 
 ---
 
@@ -33,7 +36,7 @@
 
 ### BuyVM (Crypto)
 
-- 65.58 € / 6.72 € = 9 Months left.
+- 80.02 € / 6.72 € = 11 Months left.
 
 ### Soleil (FIAT)
 
@@ -59,7 +62,7 @@
 
 ### DigitalOcean (FIAT)
 
-- $63.54 / $14.81 = 4 Months left.
+- ~ $20 (Speculation) / $14.81 = 1 Month left.
 - Credit expires on November 19, 2023.
 
 **Bandwidth overusage fees range from $8-40 a month.**
@@ -74,3 +77,4 @@
 ## How we used the funds
 
 - We donated to [Akis](https://akisblack.dev) for the work he made for our [website](https://psf.lt).
+- We paid the monthly bill of BuyVM, and OVH.
