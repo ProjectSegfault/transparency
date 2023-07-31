@@ -9,6 +9,7 @@
 + 1.1 € (On the 10th of July.)
 + 0.15 XMR (~ 21,84 € On the 13th of July.)
 + 550 INR (~6.062€ On the 27th of July.)
++ 36.90 € (On the 17th of July.)
 ```
 
 ## Recurring donations:
@@ -28,8 +29,8 @@
 
 - 0.5482824063 XMR (~ 80,02 € At the time of writing this.)
 - 0.14699405 LTC (~ 10.34 € At the time of writing this.)
-- 175.17 € (in FIAT) (27.07 € Pending included.)
-- Total (in €) : 255.336 €
+- 212.07 € (in FIAT) (63.97 € Pending included.)
+- Total (in €) : 292.236 €
 
 ---
 
@@ -59,7 +60,7 @@
 
 ### OVH VPS (FIAT)
 
-- 175.17 € / 4.20 € = 41 Months left. (~3 years.)
+- 212.07 € / 4.20 € = 50 Months left. (~4 years.)
 
 ### DigitalOcean (FIAT)
 
@@ -71,7 +72,7 @@
 
 ### Rsync.net (FIAT)
 
-- 175.17 € / 33.38 € = ~ 5 years left.
+- 212.07 € / 33.38 € = ~ 6 years left.
 
 ---
 
