@@ -8,8 +8,10 @@
 + 0.05 XMR (~ 7.43 € On the 6th of July.)
 + 1.1 € (On the 10th of July.)
 + 0.15 XMR (~ 21,84 € On the 13th of July.)
-+ 550 INR (~6.062€ On the 27th of July.)
 + 36.90 € (On the 17th of July.)
++ 0.0183 XMR (~ 2.66 € On the 17th of July.)
++ 550 INR (~6.062€ On the 27th of July.)
+
 ```
 
 ## Recurring donations:
@@ -27,10 +29,10 @@
 
 ## Current balance:
 
-- 0.5482824063 XMR (~ 80,02 € At the time of writing this.)
+- 0.5665824063 XMR (~ 82.4 € At the time of writing this.)
 - 0.14699405 LTC (~ 10.34 € At the time of writing this.)
 - 212.07 € (in FIAT) (63.97 € Pending included.)
-- Total (in €) : 292.236 €
+- Total (in €) : 294.896 €
 
 ---
 
@@ -38,7 +40,7 @@
 
 ### BuyVM (Crypto)
 
-- 80.02 € / 6.72 € = 11 Months left.
+- 82.4 € / 6.72 € = 12 Months left. (~1 year.)
 
 ### Soleil (FIAT)
 
