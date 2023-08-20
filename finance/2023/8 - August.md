@@ -39,13 +39,27 @@
 
 ### Domain (FIAT)
 
-- psf.lt
+- psf.lt (Gandi)
+
+* 24 EUR as of 20/08/2023
 
 * Paid. 8 months left.
 
-- projectsegfau.lt
+- projectsegfau.lt (OVH)
+
+* 11.5 EUR as of 20/08/2023
 
 * Paid. 1 year and 8 months left.
+
+### Rsync.net (FIAT)
+
+- 212.07 € / 33.38 € = ~ 6 years left.
+
+### Racknerd (FIAT)
+
+- 212.07 € / 44.54 € = ~ 4 years left.
+
+## Previous Expenses
 
 ### Hebergnity (FIAT)
 
@@ -57,11 +71,7 @@
 
 ### DigitalOcean (FIAT)
 
-- **Killed** - Will update with the new VPS server.
-
-### Rsync.net (FIAT)
-
-- 212.07 € / 33.38 € = ~ 6 years left.
+- **Killed** - moved to Racknerd
 
 ---
 
