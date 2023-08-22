@@ -3,7 +3,8 @@
 ## One time donations:
 
 ```diff
-* None at the moment.
+150 inr (~ 1.654€ On the 21st of August.)
+
 ```
 
 ## Recurring donations:
