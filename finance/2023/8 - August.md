@@ -32,7 +32,7 @@
 ### BuyVM (Crypto)
 
 - 82.4 € / 6.72 € = 12 Months left. (~1 year.)
-- 18.781 € in frantech funds due to the cancellation of the US VPS.
+- 12.363 € € in frantech funds due to the cancellation of the US VPS.
 
 ### Soleil (FIAT)
 
@@ -81,3 +81,4 @@
 - We paid a 6 months vps accidentally and decided to cancel the vps. The funds are in our frantech account now.
 - We stopped paying for OVH after migrating to a different server from a friend I and Aryak both know.
 - We paid a VPS from RackNerd costing 44,54 € per year.
+- BuyVM deducted the money from the credit we have to pay the monthly bill of PIZZA-1. The credits left have been updated.
