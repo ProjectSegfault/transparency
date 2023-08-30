@@ -3,7 +3,7 @@
 ## One time donations:
 
 ```diff
-+ 150 inr (~ 1.654€ On the 21st of August.)
++ 150 INR (~ 1.654€ On the 21st of August.)
 + 69.65 € (On the 30th of August.) (Biggest donation so far, thanks a lot!)
 
 ```
