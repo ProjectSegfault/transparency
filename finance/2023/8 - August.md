@@ -34,7 +34,7 @@
 ### BuyVM (Crypto)
 
 - 82.4 € / 6.72 € = 12 Months left. (~1 year.)
-- 12.363 € € in frantech funds due to the cancellation of the US VPS.
+- 12.363 € in frantech funds due to the cancellation of the US VPS.
 
 ### Soleil (FIAT)
 
