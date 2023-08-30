@@ -3,7 +3,8 @@
 ## One time donations:
 
 ```diff
-150 inr (~ 1.654€ On the 21st of August.)
++ 150 inr (~ 1.654€ On the 21st of August.)
++ 69.65 € (On the 30th of August.) (Biggest donation so far, thanks a lot!)
 
 ```
 
@@ -16,14 +17,15 @@
 ```diff
 - 0.133444456990 XMR (19.11 € On the 10th of August.)
 - 44,54 € (On the 12th of August.)
+- 65,70 € (On the 16th of August.)
 ```
 
 ## Current balance:
 
 - 0.4331379493 XMR (~ 62.7 € At the time of writing this.)
 - 0.14699405 LTC (~ 10.34 € At the time of writing this.)
-- 167.53 € (in FIAT)
-- Total (in €) : 231.246 €
+- 171.48 € (in FIAT)
+- Total (in €) : 235.196 €
 
 ---
 
@@ -82,3 +84,4 @@
 - We stopped paying for OVH after migrating to a different server from a friend I and Aryak both know.
 - We paid a VPS from RackNerd costing 44,54 € per year.
 - BuyVM deducted the money from the credit we have to pay the monthly bill of PIZZA-1. The credits left have been updated.
+- We bought 2 spare drives (65.70 € in total) in order to [avoid getting into this situation again](https://psf.lt/blog/about-soleil-levants-downtime).
