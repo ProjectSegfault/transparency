@@ -42,13 +42,13 @@
 
 * 24 EUR as of 20/08/2023
 
-* Paid. 8 months left.
+* Paid. 7 months left.
 
 - projectsegfau.lt (OVH)
 
 * 11.5 EUR as of 20/08/2023
 
-* Paid. 1 year and 8 months left.
+* Paid. 1 year and 7 months left.
 
 ### Rsync.net (FIAT)
 
