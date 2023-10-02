@@ -38,29 +38,37 @@
 
 ### Soleil (FIAT)
 
-- Paid by lerien.
+- Paid by MrLeRien.
+
+### IN Node (FIAT)
+
+- Paid by Arya.
 
 ### Domain (FIAT)
 
-- psf.lt (Gandi)
+#### psf.lt (Gandi)
 
 * 24 EUR as of 20/08/2023
 
-* Paid. 8 months left.
+* Paid. 7 months left.
 
-- projectsegfau.lt (OVH)
+#### projectsegfau.lt (OVH)
 
 * 11.5 EUR as of 20/08/2023
 
-* Paid. 1 year and 8 months left.
+* Paid. 7 months left.
 
 ### Rsync.net (FIAT)
 
-- 212.07 € / 33.38 € = ~ 6 years left.
+* 212.07 € / 33.38 € = ~ 6 years left.
+* Paid. 6 months left.
 
 ### Racknerd (FIAT)
 
-- 212.07 € / 44.54 € = ~ 4 years left.
+#### US Node
+
+* 212.07 € / 44.54 € = ~ 4 years left.
+* Paid. 11 months left.
 
 ## Previous Expenses
 
