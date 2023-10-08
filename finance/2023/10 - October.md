@@ -13,7 +13,7 @@
 ## Expenses
 
 ```diff
-- 1500 INR (~ 17.042 € On the 8th of October.)
+- 2500 INR (~ 28.403 € On the 8th of October.)
 ```
 
 ## Current balance:
@@ -36,6 +36,10 @@
 ### Soleil (FIAT)
 
 - Decomissioned
+
+### IN Node (FIAT (INR/€))
+
+- Managed by Arya
 
 ### Domain (FIAT)
 
