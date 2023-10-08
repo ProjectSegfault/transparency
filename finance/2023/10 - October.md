@@ -13,14 +13,14 @@
 ## Expenses
 
 ```diff
-- 1500 INR (On the 8th of October.)
+- 1500 INR (~ 17.042 € On the 8th of October.)
 ```
 
 ## Current balance:
 
 - 0.4331379493 XMR (~ 62.7 € At the time of writing this.)
 - 0.14699405 LTC (~ 10.34 € At the time of writing this.)
-- 0 INR
+- 0 INR (~ 0 €)
 - 171.48 € (in FIAT)
 - Total (in €) : 235.196 €
 
