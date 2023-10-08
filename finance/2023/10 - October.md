@@ -41,6 +41,8 @@
 
 - Managed by Arya
 
+* -1700 INR (-19.314€) as of 08/10/2023
+
 ### Domain (FIAT)
 
 - psf.lt (Gandi)
