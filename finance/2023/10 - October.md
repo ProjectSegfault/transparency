@@ -14,15 +14,16 @@
 
 ```diff
 - 2500 INR (~ 28.403 € On the 8th of October.)
+- 0.00146641773 XMR (~ 0.22 € On the 26th of October)
 ```
 
 ## Current balance:
 
-- 0.4331379493 XMR (~ 62.7 € At the time of writing this.)
-- 0.14699405 LTC (~ 10.34 € At the time of writing this.)
+- 0.43167153 XMR (~ 65.89 € At the time of writing this.)
+- 0.14699405 LTC (~ 9.45 € At the time of writing this.)
 - 0 INR (~ 0 €)
 - 171.48 € (in FIAT)
-- Total (in €) : 235.196 €
+- Total (in €) : 246.82 €
 
 ---
 
@@ -31,7 +32,6 @@
 ### BuyVM (Crypto)
 
 - 82.4 € / 6.72 € = 12 Months left. (~1 year.)
-- 6.3 € in frantech funds due to the cancellation of the US VPS.
 
 ### Soleil (FIAT)
 
@@ -84,3 +84,4 @@
 ## How we used the funds
 
 - Arya used all the funds he got from donations to buy extra sticks of ram (+16GB I believe) to allow more headroom for in server.
+- We paid the monthly bill of BuyVM, This may be the last month before we move to a different VPS (We are in the talks regarding what future reputable VPS to use instead.)
