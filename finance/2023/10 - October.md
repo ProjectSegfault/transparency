@@ -3,7 +3,7 @@
 ## One time donations:
 
 ```diff
-* none :(
++ 11.39 € (On the 25th of October.)
 ```
 
 ## Recurring donations:
@@ -22,8 +22,8 @@
 - 0.43167153 XMR (~ 65.89 € At the time of writing this.)
 - 0.14699405 LTC (~ 9.45 € At the time of writing this.)
 - 0 INR (~ 0 €)
-- 171.48 € (in FIAT)
-- Total (in €) : 246.82 €
+- 182.87 € (in FIAT)
+- Total (in €) : 258.21 €
 
 ---
 
