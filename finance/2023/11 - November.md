@@ -1,9 +1,9 @@
-# Finances for October 2023:
+# Finances for November 2023:
 
 ## One time donations:
 
 ```diff
-+ 11.39 € (On the 25th of October.)
+* none this month :(
 ```
 
 ## Recurring donations:
@@ -13,8 +13,7 @@
 ## Expenses
 
 ```diff
-- 2500 INR (~ 28.403 € On the 8th of October.)
-- 0.00146641773 XMR (~ 0.22 € On the 26th of October)
+- 2.99 £ (~3.416 € On the 8th of November.)
 ```
 
 ## Current balance:
@@ -22,8 +21,8 @@
 - 0.43167153 XMR (~ 65.89 € At the time of writing this.)
 - 0.14699405 LTC (~ 9.45 € At the time of writing this.)
 - 0 INR (~ 0 €)
-- 182.87 € (in FIAT)
-- Total (in €) : 258.21 €
+- 179.454 € (in FIAT)
+- Total (in €) : 254.794 €
 
 ---
 
@@ -31,7 +30,15 @@
 
 ### BuyVM (Crypto)
 
-- 82.4 € / 6.72 € = 12 Months left. (~1 year.)
+- 82.4 € / 6.72 € = 11 Months left. (~1 year.)
+
+* Will be decommissioned this month. Migration is already done.
+
+### Nonic (FIAT)
+
+- 179.45 € / 6.84€ = 26 Months left. (~2 years.)
+
+* Replaced BuyVM.
 
 ### Soleil (FIAT)
 
@@ -49,13 +56,13 @@
 
 * 24 EUR as of 20/08/2023
 
-* Paid. 6 months left.
+* Paid. 5 months left.
 
 - projectsegfau.lt (OVH)
 
 * 11.5 EUR as of 20/08/2023
 
-* Paid. 1 year and 6 months left.
+* Paid. 1 year and 5 months left.
 
 ### Rsync.net (FIAT)
 
@@ -83,5 +90,5 @@
 
 ## How we used the funds
 
-- Arya used all the funds he got from donations to buy extra sticks of ram (+16GB I believe) to allow more headroom for in server.
-- We paid the monthly bill of BuyVM, This may be the last month before we move to a different VPS (We are in the talks regarding what future reputable VPS to use instead.)
+- We started paying the nonic VPS and will decommission the BuyVM VPS.
+- Note that the rate that the transparency report updates will go on will be reduced as there is less donations than usual. And also due to [the reduced activity agreement announced in the blog post](https://blog.projectsegfau.lt/the-future-of-project-segfault)
