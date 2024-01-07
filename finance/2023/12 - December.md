@@ -60,18 +60,15 @@
 
 - 212.07 € / 33.38 € = ~ 6 years left.
 
-
 ## Previous Expenses
-
 
 ### BuyVM (Crypto)
 
 - **Decomissioned** - Moved to Nonic
 
-
 ### Soleil (FIAT)
 
-- **Decomissioned** - Moved to a mix of IN Node and Nonic; See: https://blog.projectsegfau.lt/the-future-of-project-segfault/ 
+- **Decomissioned** - Moved to a mix of IN Node and Nonic; [See here as to why we've done that.](https://blog.projectsegfau.lt/the-future-of-project-segfault/)
 
 ### Hebergnity (FIAT)
 

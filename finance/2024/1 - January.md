@@ -28,19 +28,13 @@
 
 ## Estimated amount of funds.
 
-### BuyVM (Crypto)
-
-- Decomissioned
-
 ### Nonic (FIAT)
 
 - 165.454 € / 7€ = 23 Months left. (~1.9 years.)
 
-* Replaced BuyVM.
+### Racknerd (FIAT)
 
-### Soleil (FIAT)
-
-- Decomissioned
+- 165.454 € / 44.54 € = ~ 3 years left.
 
 ### IN Node (FIAT (INR/€))
 
@@ -66,10 +60,6 @@
 
 - 165.454 € / 33.38 € = ~ 5 years left.
 
-### Racknerd (FIAT)
-
-- 165.454 € / 44.54 € = ~ 3 years left.
-
 ## Previous Expenses
 
 ### Hebergnity (FIAT)
@@ -83,6 +73,14 @@
 ### DigitalOcean (FIAT)
 
 - **Killed** - moved to Racknerd
+
+### BuyVM (Crypto)
+
+- **Decomissioned** - Moved to Nonic
+
+### Soleil (FIAT)
+
+- **Decomissioned** - Moved to a mix of IN Node and Nonic; [See here as to why we've done that.](https://blog.projectsegfau.lt/the-future-of-project-segfault/)
 
 ---
 
