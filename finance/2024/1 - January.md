@@ -3,7 +3,7 @@
 ## One time donations:
 
 ```diff
-* none this month :(
++ 2.29 € (On the 11th of January.) (First donation of the year 🎉)
 ```
 
 ## Recurring donations:
@@ -21,8 +21,8 @@
 - 0.43167153 XMR (~ 65.89 € At the time of writing this.)
 - 0.14699405 LTC (~ 9.45 € At the time of writing this.)
 - 0 INR (~ 0 €)
-- 165.454 € (in FIAT)
-- Total (in €) : 240.794 €
+- 167.744 € (in FIAT)
+- Total (in €) : 243.084 €
 
 ---
 
@@ -30,11 +30,11 @@
 
 ### Nonic (FIAT)
 
-- 165.454 € / 7€ = 23 Months left. (~1.9 years.)
+- 167.744 € / 7€ = 23.9 Months left. (~1.99 years.)
 
 ### Racknerd (FIAT)
 
-- 165.454 € / 44.54 € = ~ 3 years left.
+- 167.744 € / 44.54 € = ~ 3.77 years left.
 
 ### IN Node (FIAT (INR/€))
 
@@ -58,7 +58,7 @@
 
 ### Rsync.net (FIAT)
 
-- 165.454 € / 33.38 € = ~ 5 years left.
+- 167.744 € / 33.38 € = ~ 5 years left.
 
 ## Previous Expenses
 
