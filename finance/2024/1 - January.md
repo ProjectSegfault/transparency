@@ -54,7 +54,7 @@
 
 * 11.5 EUR as of 20/08/2023
 
-* Paid. 1 year and 3 months left.
+* Paid. 2 months left.
 
 ### Rsync.net (FIAT)
 
