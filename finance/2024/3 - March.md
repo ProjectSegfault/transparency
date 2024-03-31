@@ -3,7 +3,7 @@
 ## One time donations:
 
 ```diff
-* None this month :(
++ 100 $ CAD (68.15€) (On the 30th of March.) (Thank you very much!)
 ```
 
 ## Recurring donations:
@@ -22,8 +22,8 @@
 - 0.43167153 XMR (~ 55,3 € At the time of writing this.)
 - 0.14699405 LTC (~ 11,53 € At the time of writing this.)
 - 0 INR (~ 0 €)
-- 101.054 € (in FIAT)
-- Total (in €) : 167.884 €
+- 169.211 € € (in FIAT)
+- Total (in €) : 236.041 €
 
 ---
 
@@ -31,11 +31,11 @@
 
 ### Avoro (FIAT)
 
-- 101.054 € / (16.50 / 3) € = 18.37 Months left (~1.5 years.)
+- 169.211 € / (16.50 / 3) € = 30.76 Months left (~2.5 years.)
 
 ### Racknerd (FIAT)
 
-- 101.054 € / 44.54 € = ~ 2.2 years left.
+- 169.211 € / 44.54 € = ~ 3.7 years left.
 
 ### IN Node (FIAT (INR/€))
 
@@ -59,7 +59,7 @@
 
 ### Rsync.net (FIAT)
 
-- 101.054 € / 33.38 € = ~ 3 years left.
+- 169.211 € / 33.38 € = ~ 5 years left.
 
 ## Previous Expenses
 
