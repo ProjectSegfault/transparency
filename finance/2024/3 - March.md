@@ -4,6 +4,10 @@
 
 ```diff
 + 100 $ CAD (68.15€) (On the 30th of March.) (Thank you very much!)
++ 0.3000933 LTC (27.7€) (On the 26th of January.) (Sorry, I missed that one because I don't frequently check the crypto donations due to its rarity!)
++ 0.0369 XMR (4.41 €) (On the 3rd of March.)
++ 0.01 XMR (1.2 €) (On the 12th of February)
++ 0.0369 XMR (4.41 €) (On the 4th of February.)
 ```
 
 ## Recurring donations:
@@ -19,11 +23,11 @@
 
 ## Current balance:
 
-- 0.43167153 XMR (~ 55,3 € At the time of writing this.)
-- 0.14699405 LTC (~ 11,53 € At the time of writing this.)
+- 0.51547153 XMR (~ 61,63 € At the time of writing this.)
+- 0.44708735 LTC (~ 41,05 € At the time of writing this.)
 - 0 INR (~ 0 €)
-- 169.211 € € (in FIAT)
-- Total (in €) : 236.041 €
+- 169.211 € (in FIAT) (Majority of costs uses this.)
+- Total (in €) : 273.761 €
 
 ---
 
