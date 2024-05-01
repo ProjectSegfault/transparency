@@ -19,6 +19,7 @@
 ```diff
 - 19.20 € (On the 1st of March.)
 - 23.99 € (On the 1st of March.)
+- 36.00 € (On the 24th of March.)
 ```
 
 ## Current balance:
@@ -26,8 +27,8 @@
 - 0.51547153 XMR (~ 61,63 € At the time of writing this.)
 - 0.44708735 LTC (~ 41,05 € At the time of writing this.)
 - 0 INR (~ 0 €)
-- 169.211 € (in FIAT) (Majority of costs uses this.)
-- Total (in €) : 273.761 €
+- 133.211 € (in FIAT) (Majority of costs uses this.)
+- Total (in €) : 237.761 €
 
 ---
 
@@ -35,11 +36,11 @@
 
 ### Avoro (FIAT)
 
-- 169.211 € / (16.50 / 3) € = 30.76 Months left (~2.5 years.)
+- 133.211 € / (16.50 / 3) € = 24.22 Months left (~2 years.)
 
 ### Racknerd (FIAT)
 
-- 169.211 € / 44.54 € = ~ 3.7 years left.
+- 133.211 € / 44.54 € = ~ 3 years left.
 
 ### IN Node (FIAT (INR/€))
 
@@ -63,7 +64,7 @@
 
 ### Rsync.net (FIAT)
 
-- 169.211 € / 33.38 € = ~ 5 years left.
+- 133.211 € / 33.38 € = ~ 4 years left.
 
 ## Previous Expenses
 
@@ -96,5 +97,6 @@
 ## How we used the funds
 
 - We renewed the **projectsegfau.lt** domain name and the **psf.lt** domain name. The total was 43.19 €.
+- Also renewed the rsync payment. Apparently I missed that for some reason.
 - **Note** that the rate that the transparency report updates will go on will be reduced as there is less donations than usual. And also due to [the reduced activity agreement announced in the blog post](https://blog.projectsegfau.lt/the-future-of-project-segfault)
 - This also means a reduced activity on donations due to midou being busy with other stuff. But at the end of the month the finances should be updated at least.
