@@ -1,4 +1,4 @@
-# Finances for April 2024:
+# Finances for May 2024:
 
 ## One time donations:
 
@@ -13,7 +13,7 @@
 ## Expenses
 
 ```diff
-* No expenses at the moment
+- 16.5€ (On the 24th of May.)
 ```
 
 ## Current balance:
@@ -21,8 +21,8 @@
 - 0.51547153 XMR (~ 61,63 € At the time of writing this.)
 - 0.44708735 LTC (~ 41,05 € At the time of writing this.)
 - 0 INR (~ 0 €)
-- 133.211 € (in FIAT) (Majority of costs uses this.)
-- Total (in €) : 237.761 €
+- 116.711 € (in FIAT) (Majority of costs uses this.)
+- Total (in €) : 221.261 €
 
 ---
 
@@ -30,11 +30,11 @@
 
 ### Avoro (FIAT)
 
-- 133.211 € / (16.50 / 3) € = 24.22 Months left (~2 years.)
+- 116.711 € / (16.50 / 3) € = 21.22 Months left (~1.8 years.)
 
 ### Racknerd (FIAT)
 
-- 133.211 € / 44.54 € = ~ 3 years left.
+- 116.711 € / 44.54 € = ~ 2.6 years left.
 
 ### IN Node (FIAT (INR/€))
 
@@ -48,17 +48,17 @@
 
 * 24 EUR as of 01/03/2024
 
-* Paid. 1 year and 2 months left.
+* Paid. 1 year and 1 month left.
 
 - projectsegfau.lt (Netim)
 
 * 19.20 EUR as of 01/03/2024
 
-* Paid. 1 year and 9 days left.
+* Paid. 11 months left.
 
 ### Rsync.net (FIAT)
 
-- 133.211 € / 33.38 € = ~ 4 years left.
+- 116.711 € / 33.38 € = ~ 3.5 years left.
 
 ## Previous Expenses
 
@@ -90,5 +90,6 @@
 
 ## How we used the funds
 
+- We paid avoro after noticing they discounted us (we forgot to pay lol). All good now though.
 - **Note** that the rate that the transparency report updates will go on will be reduced as there is less donations than usual. And also due to [the reduced activity agreement announced in the blog post](https://blog.projectsegfau.lt/the-future-of-project-segfault)
 - This also means a reduced activity on donations due to midou being busy with other stuff. But at the end of the month the finances should be updated at least.
