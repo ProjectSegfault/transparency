@@ -1,11 +1,9 @@
-# Finances for April 2024:
+# Finances for June 2024:
 
 ## One time donations:
 
 ```diff
-+ 300 INR (On the 25th of April)
-+ 100 INR (On the 27th of April)
-
++ 300 INR (On the 1st of June)
 ```
 
 ## Recurring donations:
@@ -15,7 +13,7 @@
 ## Expenses
 
 ```diff
-* No expenses at the moment
+- 16.5€ (On the 24th of May.)
 ```
 
 ## Current balance:
@@ -23,8 +21,8 @@
 - 0.51547153 XMR (~ 61,63 € At the time of writing this.)
 - 0.44708735 LTC (~ 41,05 € At the time of writing this.)
 - 0 INR (~ 0 €)
-- 133.211 € (in FIAT) (Majority of costs uses this.)
-- Total (in €) : 237.761 €
+- 116.711 € (in FIAT) (Majority of costs uses this.)
+- Total (in €) : 221.261 €
 
 ---
 
@@ -32,17 +30,17 @@
 
 ### Avoro (FIAT)
 
-- 133.211 € / (16.50 / 3) € = 24.22 Months left (~2 years.)
+- 116.711 € / (16.50 / 3) € = 21.22 Months left (~1.8 years.)
 
 ### Racknerd (FIAT)
 
-- 133.211 € / 44.54 € = ~ 3 years left.
+- 116.711 € / 44.54 € = ~ 2.6 years left.
 
 ### IN Node (FIAT (INR/€))
 
 - Managed by Arya
 
-* -1300 INR (-14.33€) as of 31/04/2024
+* -900 INR (-9.92€) as of 01/06/2024
 
 ### Domain (FIAT)
 
@@ -50,17 +48,17 @@
 
 * 24 EUR as of 01/03/2024
 
-* Paid. 1 year and 2 months left.
+* Paid. 1 year and 1 month left.
 
 - projectsegfau.lt (Netim)
 
 * 19.20 EUR as of 01/03/2024
 
-* Paid. 1 year and 9 days left.
+* Paid. 11 months left.
 
 ### Rsync.net (FIAT)
 
-- 133.211 € / 33.38 € = ~ 4 years left.
+- 116.711 € / 33.38 € = ~ 3.5 years left.
 
 ## Previous Expenses
 

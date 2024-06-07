@@ -3,7 +3,7 @@
 ## One time donations:
 
 ```diff
-* Nothing this month :(
++ 100 INR (On the 9th of May)
 ```
 
 ## Recurring donations:
@@ -40,7 +40,7 @@
 
 - Managed by Arya
 
-* -1700 INR (-19.314€) as of 08/10/2023
+* -1200 INR (-13.23€) as of 31/05/2024
 
 ### Domain (FIAT)
 
