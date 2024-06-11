@@ -4,6 +4,7 @@
 
 ```diff
 + 300 INR (On the 1st of June)
++ 300 INR (On the 10th of June)
 ```
 
 ## Recurring donations:
@@ -40,7 +41,7 @@
 
 - Managed by Arya
 
-* -900 INR (-9.92€) as of 01/06/2024
+* -600 INR (-6,614€) as of 10/06/2024
 
 ### Domain (FIAT)
 
