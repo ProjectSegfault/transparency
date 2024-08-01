@@ -19,6 +19,7 @@
 ```diff
 - 6000 INR (On the 21st of july)
 - 200 INR (Payback from the -200 INR in IN Node expenses)
+- 45.20€ (On the 28th of July)
 ```
 
 ## Current balance:
@@ -26,8 +27,8 @@
 - 0.51547153 XMR (~ 61,63 € At the time of writing this.)
 - 0.44708735 LTC (~ 41,05 € At the time of writing this.)
 - 600 INR (~ 6,584 €)
-- 168.211 € (in FIAT) (Majority of costs uses this.)
-- Total (in €) : 229.345 €
+- 123 € (in FIAT) (Majority of costs uses this.)
+- Total (in €) : 184.14 €
 
 ---
 
@@ -35,11 +36,11 @@
 
 ### Avoro (FIAT)
 
-- 168.211 € / (16.50 / 3) € = 30,58 Months left (~2 years.)
+- 123 € / (16.50 / 3) € = 22.3 Months left (~1.8 years.)
 
 ### Racknerd (FIAT)
 
-- 168.211 € / 44.54 € = ~ 3.77 years left.
+- 123 € / 44.54 € = ~ 2.761 years left.
 
 ### IN Node (FIAT (INR/€))
 
@@ -63,7 +64,7 @@
 
 ### Rsync.net (FIAT)
 
-- 168.211 € / 33.38 € = ~ 5 years left.
+- 123 € / 33.38 € = ~ 3.6 years left.
 
 ## Previous Expenses
 
@@ -96,5 +97,6 @@
 ## How we used the funds
 
 - We bought a new fan and hard drive for IN Node to have more storage to offer in our services, this should reduce the crashes and failures we have been getting for a few months now. More stability, thank you to [everyone who donated](https://wiki.projectsegfau.lt/en/Credits#donators)!
+- We paid racknerd for another year for US Node.
 - **Note** that the rate that the transparency report updates will go on will be reduced as there is less donations than usual. And also due to [the reduced activity agreement announced in the blog post](https://blog.projectsegfau.lt/the-future-of-project-segfault)
 - This also means a reduced activity on donations due to midou being busy with other stuff. But at the end of the month the finances should be updated at least.
