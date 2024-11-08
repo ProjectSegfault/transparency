@@ -1,9 +1,10 @@
-# Finances for January 2024:
+# Finances for November 2024:
 
 ## One time donations:
 
 ```diff
-+ 2.29 € (On the 11th of January.) (First donation of the year 🎉)
++ 2000 INR (On the 7th of November) (21.99 €)
++ 400 INR (On the 8th of November) (4.39 €)
 ```
 
 ## Recurring donations:
@@ -13,52 +14,52 @@
 ## Expenses
 
 ```diff
-- 5.99 £ (~7 € On the 8th of January.)
+- 2650 INR (On the 8th of November) (29.14 €)
 ```
 
 ## Current balance:
 
-- 0.43167153 XMR (~ 65.89 € At the time of writing this.)
-- 0.14699405 LTC (~ 9.45 € At the time of writing this.)
-- 0 INR (~ 0 €)
-- 167.744 € (in FIAT)
-- Total (in €) : 243.084 €
+- 0.51547153 XMR (~ 61,63 € At the time of writing this.)
+- 0.44708735 LTC (~ 41,05 € At the time of writing this.)
+- 420 INR (~ 4.6 €)
+- 119.5 € (in FIAT) (Majority of costs uses this.)
+- Total (in €) : 178.63 €
 
 ---
 
 ## Estimated amount of funds.
 
-### Nonic (FIAT)
+### Avoro (FIAT)
 
-- 167.744 € / 7€ = 23.9 Months left. (~1.99 years.)
+- 119.5 € / (16.50 / 3) € = ~ 21 Months left (~1,8 years.)
 
 ### Racknerd (FIAT)
 
-- 167.744 € / 44.54 € = ~ 3.77 years left.
+- 119.5 € / 44.54 € = ~ 2,68 years left.
 
 ### IN Node (FIAT (INR/€))
 
 - Managed by Arya
 
-* -1700 INR (-19.314€) as of 08/10/2023
+* 0 INR (0 €) as of 10/06/2024
 
 ### Domain (FIAT)
 
 - psf.lt (Gandi)
 
-* 24 EUR as of 20/08/2023
+* 24 EUR as of 01/03/2024
 
-* Paid. 3 months left.
+* Paid. 9 months left.
 
-- projectsegfau.lt (OVH)
+- projectsegfau.lt (Netim)
 
-* 11.5 EUR as of 20/08/2023
+* 19.20 EUR as of 01/03/2024
 
-* Paid. 2 months left.
+* Paid. 7 months left.
 
 ### Rsync.net (FIAT)
 
-- 167.744 € / 33.38 € = ~ 5 years left.
+- 119.5 € / 33.38 € = ~ 3,5 years left.
 
 ## Previous Expenses
 
@@ -82,10 +83,13 @@
 
 - **Decomissioned** - Moved to a mix of IN Node and Nonic; [See here as to why we've done that.](https://blog.projectsegfau.lt/the-future-of-project-segfault/)
 
+### Nonic (FIAT)
+
+- **Decomissioned** - Moved to Avoro due to a non-disputable DMCA complaint.
+
 ---
 
 ## How we used the funds
 
-- We paid the monthly bill of Nonic VPS.
-- Note that the rate that the transparency report updates will go on will be reduced as there is less donations than usual. And also due to [the reduced activity agreement announced in the blog post](https://blog.projectsegfau.lt/the-future-of-project-segfault)
+- **Note** that the rate that the transparency report updates will go on will be reduced as there is less donations than usual. And also due to [the reduced activity agreement announced in the blog post](https://blog.projectsegfau.lt/the-future-of-project-segfault)
 - This also means a reduced activity on donations due to midou being busy with other stuff. But at the end of the month the finances should be updated at least.
