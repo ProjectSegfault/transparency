@@ -5,6 +5,7 @@
 ```diff
 + 500 INR (On the 1st of December) (5.6 €)
 + 100 INR (On the 7th of December) (1.1 €)
++ 100 INR (On the 14th of December) (1.1 €)
 ```
 
 ## Recurring donations:
@@ -21,9 +22,9 @@
 
 - 0.51547153 XMR (~ 89.82 € At the time of writing this.)
 - 0.44708735 LTC (~ 47.44 € At the time of writing this.)
-- 1020 INR (~ 11.46 €)
+- 1120 INR (~ 12.16 €)
 - 108.1 € (in FIAT) (Majority of costs uses this.)
-- Total (in €) : 256.82 €
+- Total (in €) : 257.92 €
 
 ---
 
