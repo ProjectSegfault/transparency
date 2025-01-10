@@ -17,11 +17,16 @@
 
 ## Current balance:
 
-- 0.51547153 XMR (~ 98.54 € At the time of writing this.)
-- 0.44708735 LTC (~ 48.10 € At the time of writing this.)
+Note: Crypto balance is generally kept as a reserve, and usually not touched.
+- 0.51547153 XMR (~ 96.89 € At the time of writing this.)
+- 0.44708735 LTC (~ 45.43 € At the time of writing this.)
+
 - 1370 INR (~ 15.50 €)
+- 20000 INR (~ 226.41 €) - [FOSS United Grant](https://fossunited.org/grants)
+
 - 108.1 € (in FIAT) (Majority of costs uses this.)
-- Total (in €) : 270.24 €
+
+- Total (in €) : 492.33 €
 
 ---
 
