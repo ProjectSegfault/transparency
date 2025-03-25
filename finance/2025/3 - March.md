@@ -13,7 +13,10 @@
 ## Expenses
 
 ```diff
-- 19,20 € (On the 4th of March)
+- 19,20 € (On the 14th of March)
+- 19,20 € (On the 2nd of March)
+- 36,00 € (On the 19th of March)
+- 16.50 € (On the 25th of March)
 ```
 
 ## Current balance:
@@ -26,9 +29,9 @@ Note: Crypto balance is generally kept as a reserve, and usually not touched.
 - 1370 INR (~ 15.50 €)
 - 20000 INR (~ 226.41 €) - [FOSS United Grant](https://fossunited.org/grants)
 
--  88.8 € (in FIAT) (Majority of costs uses this.) ( Running low!)
+-  0.7 € (in FIAT) (Majority of costs uses this.) ( Empty)
 
-- Total (in €) : 473.13 €
+- Total (in €) : 382.23 €
 
 ---
 
@@ -53,10 +56,10 @@ Note: Crypto balance is generally kept as a reserve, and usually not touched.
 
 ### Domain (FIAT)
 
-- psf.lt (Gandi)
+- psf.lt (Netim)
 
-  - 31.98 EUR as of 11/12/2024
-  - 1 month left.
+  - 19.20 EUR as of 25/03/2025
+  - 12 months left.
 
 - projectsegfau.lt (Netim)
   - 19.20 EUR as of 4/3/2025
@@ -99,3 +102,6 @@ Note: Crypto balance is generally kept as a reserve, and usually not touched.
 
 - **Note** that the rate that the transparency report updates will go on will be reduced as there is less donations than usual. And also due to [the reduced activity agreement announced in the blog post](https://blog.projectsegfau.lt/the-future-of-project-segfault)
 - This also means a reduced activity on donations due to midou being busy with other stuff. But at the end of the month the finances should be updated at least.
+- We renewed the psf.lt and projectsegfau.lt domain. (As a bonus we moved psf.lt to netim)
+- We renewed the yearly rsync billing.
+- We paid the quarterly avoro billing.

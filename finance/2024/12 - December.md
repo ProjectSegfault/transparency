@@ -23,8 +23,8 @@
 - 0.51547153 XMR (~ 89.82 € At the time of writing this.)
 - 0.44708735 LTC (~ 47.44 € At the time of writing this.)
 - 1120 INR (~ 12.16 €)
-- 108.1 € (in FIAT) (Majority of costs uses this.)
-- Total (in €) : 257.92 €
+- 91.6 € (in FIAT) (Majority of costs uses this.)
+- Total (in €) : 241.42 €
 
 ---
 
@@ -32,15 +32,15 @@
 
 ### Avoro (FIAT)
 
-- 256.82 € / (16.50 / 3) € = ~ 47 Months left (~3.9 years.)
+- 241.42 € / (16.50 / 3) € = ~ 44 Months left (~3.6 years.)
 
 ### Racknerd (FIAT)
 
-- 256.82 € / 44.54 € = ~ 5.77 years left.
+- 241.42 € / 44.54 € = ~ 5.42 years left.
 
 ### LetBox (UK/Internal Node) (FIAT)
 
-- 256.82 € / 12 € = ~ 9.95 years left.
+- 241.42 € / 12 € = ~ 20.1 years left.
 
 ### IN Node (FIAT (INR/€))
 
@@ -62,7 +62,7 @@
 
 ### Rsync.net (FIAT)
 
-- 256.82 € / 33.38 € = ~ 7.7 years left.
+- 241.42 € / 33.38 € = ~ 7.2 years left.
 
 ## Previous Expenses
 

@@ -26,9 +26,9 @@ Note: Crypto balance is generally kept as a reserve, and usually not touched.
 - 1370 INR (~ 15.50 €)
 - 20000 INR (~ 226.41 €) - [FOSS United Grant](https://fossunited.org/grants)
 
-- 108.1 € (in FIAT) (Majority of costs uses this.)
+- 91.6 € (in FIAT) (Majority of costs uses this.)
 
-- Total (in €) : 492.33 €
+- Total (in €) : 475.83 €
 
 ---
 

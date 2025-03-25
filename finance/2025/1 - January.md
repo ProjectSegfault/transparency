@@ -13,20 +13,22 @@
 ## Expenses
 
 ```diff
+
 ```
 
 ## Current balance:
 
 Note: Crypto balance is generally kept as a reserve, and usually not touched.
+
 - 0.51547153 XMR (~ 96.89 € At the time of writing this.)
 - 0.44708735 LTC (~ 45.43 € At the time of writing this.)
 
 - 1370 INR (~ 15.50 €)
 - 20000 INR (~ 226.41 €) - [FOSS United Grant](https://fossunited.org/grants)
 
-- 108.1 € (in FIAT) (Majority of costs uses this.)
+- 91.6 € (in FIAT) (Majority of costs uses this.)
 
-- Total (in €) : 492.33 €
+- Total (in €) : 475.83 €
 
 ---
 
@@ -52,12 +54,13 @@ Note: Crypto balance is generally kept as a reserve, and usually not touched.
 ### Domain (FIAT)
 
 - psf.lt (Gandi)
-    * 31.98 EUR as of 11/12/2024
-    * 3 months left.
+
+  - 31.98 EUR as of 11/12/2024
+  - 3 months left.
 
 - projectsegfau.lt (Netim)
-    * 19.20 EUR as of 11/12/2024
-    * 2 months left.
+  - 19.20 EUR as of 11/12/2024
+  - 2 months left.
 
 ### Rsync.net (FIAT)
 

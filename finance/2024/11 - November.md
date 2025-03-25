@@ -15,6 +15,7 @@
 
 ```diff
 - 2650 INR (On the 8th of November) (29.14 €)
+- 16.50 € (On the 26th of August)
 ```
 
 ## Current balance:
@@ -22,8 +23,8 @@
 - 0.51547153 XMR (~ 61,63 € At the time of writing this.)
 - 0.44708735 LTC (~ 41,05 € At the time of writing this.)
 - 420 INR (~ 4.6 €)
-- 119.5 € (in FIAT) (Majority of costs uses this.)
-- Total (in €) : 178.63 €
+- 103 € (in FIAT) (Majority of costs uses this.)
+- Total (in €) : 162.13 €
 
 ---
 
@@ -31,11 +32,11 @@
 
 ### Avoro (FIAT)
 
-- 119.5 € / (16.50 / 3) € = ~ 21 Months left (~1,8 years.)
+- 103 € / (16.50 / 3) € = ~ 18 Months left (~1,5 years.)
 
 ### Racknerd (FIAT)
 
-- 119.5 € / 44.54 € = ~ 2,68 years left.
+- 103 € / 44.54 € = ~ 2,31 years left.
 
 ### IN Node (FIAT (INR/€))
 
@@ -59,7 +60,7 @@
 
 ### Rsync.net (FIAT)
 
-- 119.5 € / 33.38 € = ~ 3,5 years left.
+- 103 € / 33.38 € = ~ 3 years left.
 
 ## Previous Expenses
 
@@ -93,3 +94,4 @@
 
 - **Note** that the rate that the transparency report updates will go on will be reduced as there is less donations than usual. And also due to [the reduced activity agreement announced in the blog post](https://blog.projectsegfau.lt/the-future-of-project-segfault)
 - This also means a reduced activity on donations due to midou being busy with other stuff. But at the end of the month the finances should be updated at least.
+- We paid the quarterly bill of avoro (we missed this)
